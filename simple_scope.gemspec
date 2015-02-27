@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["diego@greyrobot.com"]
   spec.summary       = %q{llows you to define magic `scope`s on an ActiveRecord model without having to provide `where` conditions.}
   spec.description   = %q{llows you to define magic `scope`s on an ActiveRecord model without having to provide `where` conditions.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/DiegoSalazar/simple_scope"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
